@@ -57,3 +57,11 @@
     text-align: center;
     color: #fff;
 }
+.main{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.main-content{
+    
+}
