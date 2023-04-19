@@ -63,5 +63,18 @@
     display: flex;
 }
 .main-content{
-    
+    background-color: #7A7A7A;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(180.6deg, rgb(70, 65, 65) 11.2%, rgb(7, 8, 7) 91.7%);
+}
+.text1{
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 190px 0;
+}
+.text1 ul h1{
+    justify-content: space-between;
+    padding: 3px;
 }
