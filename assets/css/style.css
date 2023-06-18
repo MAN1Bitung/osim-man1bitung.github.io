@@ -170,7 +170,7 @@ main{
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 }
-.footer_menu ul li a:hover{color:#554c86;}
+.footer_menu ul li a:hover{color:#4e864c;}
 
 /*START FOOTER SOCIAL DESIGN*/
 .footer_profile{margin-bottom:40px; text-align: center;}
