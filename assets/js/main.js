@@ -4,3 +4,8 @@ const menuList = document.getElementById("menu-list")
 menuIcon.addEventListener("click", () => {
     menuList.classList.toggle("hidden");
 });
+
+const 
+ if (x= <=7) {
+    else = false
+ }
